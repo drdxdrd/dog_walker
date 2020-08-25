@@ -1,0 +1,13 @@
+$bg-color: #F3C329;
+$color: #000;
+header{
+    $logo-font: 24px RobotoBlack;
+    font: $logo-font;
+    background: $bg-color;
+    color: $color;
+}
+
+.header__logo{
+    display: flex;
+    align-items: center;
+}
