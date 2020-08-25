@@ -11,3 +11,22 @@ header{
     display: flex;
     align-items: center;
 }
+
+
+.header__menu{
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    a{
+        font: 18px RobotoRegular;
+        color: #000;
+    }
+}
+
+.header__telephone{
+    font: 18px RobotoBold;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}

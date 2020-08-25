@@ -2,6 +2,11 @@
 @import "./fonts.scss";
 @import "./header.scss";
 
+*{
+    border: 1px solid red;
+}        
+
+
 $primary-color: #63ff33;
 
 body {
@@ -16,6 +21,9 @@ h1 {
   //font: 100% $font-stack;
   color: #FF0000; 
 }
+
+
+
 
 
 
